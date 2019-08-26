@@ -81,6 +81,9 @@ body {
     font-size: 14px;
     margin-top: 20px;
   }
+button:hover {
+  background-color: #3788ab;
+}
   .description h3 {
     display: inline-block;
     padding-left: 20px;
